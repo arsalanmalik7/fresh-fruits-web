@@ -70,6 +70,7 @@ header {
     margin-top: 3rem;
 }
 li{
+    list-style: none;
     width: max-content;
     background-color: wheat;
     border-radius: 20px;
